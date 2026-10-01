@@ -1,0 +1,15 @@
+/Users/talal/Desktop/untitled folder/bin/Debug/net10.0/untitled folder
+/Users/talal/Desktop/untitled folder/bin/Debug/net10.0/untitled folder.deps.json
+/Users/talal/Desktop/untitled folder/bin/Debug/net10.0/untitled folder.runtimeconfig.json
+/Users/talal/Desktop/untitled folder/bin/Debug/net10.0/untitled folder.dll
+/Users/talal/Desktop/untitled folder/bin/Debug/net10.0/untitled folder.pdb
+/Users/talal/Desktop/untitled folder/obj/Debug/net10.0/untitled folder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talal/Desktop/untitled folder/obj/Debug/net10.0/untitled folder.AssemblyInfoInputs.cache
+/Users/talal/Desktop/untitled folder/obj/Debug/net10.0/untitled folder.AssemblyInfo.cs
+/Users/talal/Desktop/untitled folder/obj/Debug/net10.0/untitled folder.csproj.CoreCompileInputs.cache
+/Users/talal/Desktop/untitled folder/obj/Debug/net10.0/untitled folder.sourcelink.json
+/Users/talal/Desktop/untitled folder/obj/Debug/net10.0/untitled folder.dll
+/Users/talal/Desktop/untitled folder/obj/Debug/net10.0/refint/untitled folder.dll
+/Users/talal/Desktop/untitled folder/obj/Debug/net10.0/untitled folder.pdb
+/Users/talal/Desktop/untitled folder/obj/Debug/net10.0/untitled folder.genruntimeconfig.cache
+/Users/talal/Desktop/untitled folder/obj/Debug/net10.0/ref/untitled folder.dll
